@@ -1,0 +1,17 @@
+html body {
+  font-size: 62.45%;
+}
+html body section.calculator button.one {
+  width: 20rem;
+  height: 20rem;
+}
+html body section.calculator button.two {
+  width: 40rem;
+  height: 20rem;
+}
+html body section.calculator button.three {
+  /*width: 60rem  */
+  width: 200rem;
+  height: 20rem;
+  background: red;
+}
